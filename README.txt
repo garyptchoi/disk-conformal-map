@@ -8,7 +8,7 @@ If you use this code in your own work, please cite the following papers:
     "Fast Disk Conformal Parameterization of Simply-Connected Open Surfaces."
     Journal of Scientific Computing, 65(3), pp. 1065-1090, 2015.
 
-(For mobius_area_correction_disk)
+If the area correction code (mobius_area_correction_disk) is also used, please cite [1] as well as the following paper:
 [2] G. P. T. Choi, Y. Leung-Liu, X. Gu, and L. M. Lui, 
     "Parallelizable global conformal parameterization of simply-connected surfaces via partial welding."
     SIAM Journal on Imaging Sciences, 2020.
