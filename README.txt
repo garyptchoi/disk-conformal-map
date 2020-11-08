@@ -14,7 +14,7 @@ If the area correction code (mobius_area_correction_disk) is also used, please c
     SIAM Journal on Imaging Sciences, 2020.
 
 Copyright (c) 2014-2020, Gary Pui-Tung Choi
-https://scholar.harvard.edu/choi
+https://math.mit.edu/~ptchoi
 
 ===============================================================
 Usage:
