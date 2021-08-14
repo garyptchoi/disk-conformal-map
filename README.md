@@ -9,6 +9,7 @@ This code computes the disk conformal parameterizations (i.e. angle-preserving m
 Any comments and suggestions are welcome. 
 
 If you use this code in your own work, please cite the following papers:
+
 [1] P. T. Choi and L. M. Lui, 
     "[Fast Disk Conformal Parameterization of Simply-Connected Open Surfaces.](https://doi.org/10.1007/s10915-015-9998-2)"
     Journal of Scientific Computing, 65(3), pp. 1065-1090, 2015.
