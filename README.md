@@ -20,9 +20,9 @@ If the area correction code (mobius_area_correction_disk) is also used, please c
     "[Parallelizable global conformal parameterization of simply-connected surfaces via partial welding.](https://doi.org/10.1137/19M125337X)"
     SIAM Journal on Imaging Sciences, 13(3), pp. 1049-1083, 2020.
 
-Copyright (c) 2014-2020, Gary Pui-Tung Choi
+Copyright (c) 2014-2024, Gary Pui-Tung Choi
 
-https://math.mit.edu/~ptchoi
+https://www.math.cuhk.edu.hk/~ptchoi
 
 ===============================================================
 
